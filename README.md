@@ -18,10 +18,7 @@ sn-mafia Bot Multi Device is a automated whatsapp bot created by <a href="https:
 # ```Bot Info```
 <p align="center">
 <a href="https://github.com/chinnu1102/followers"><img title="Followers" src="https://img.shields.io/github/followers/chinnu1102?color=red&style=flat-square"></a>
-<a href="https://github.com/business-bot-sn-mafia/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/business-bot-sn-mafia?color=blue&style=flat-square"></a>
-<a href="https://github.com/business-bot-sn-mafia/network/members"><img title="Forks" src="https://img.shields.io/github/forks/business-bot-sn-mafia?color=red&style=flat-square"></a>
-<a href="https://github.com/business-bot-sn-mafia/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/business-bot-sn-mafia?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/business-bot-sn-mafia/size"><img title="Size" src="https://img.shields.io/github/repo-size/business-bot-sn-mafia?style=flat-square&color=green"></a>
+<a href="https://github.com/business-bot-sn-mafia/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/business-bot-sn-mafia?color=blue&style=flat-square"></a>.
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchinnu1102%2FSN-MAFIA&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/business-bot-sn-mafia/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
